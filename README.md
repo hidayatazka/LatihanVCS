@@ -1,7 +1,7 @@
 # LatihanVCS
 ## Langkah - langkah Penggunaan Git
 ### 1. Login terlebih dahulu di github.com
-
+[img](images/1.png)
 ### 2. Setelah login buat Repository baru pada github.com
 
 ### 3. Buat Nama Repositori LatihanVCS setelah ikuti gambar yang dibawah ini
